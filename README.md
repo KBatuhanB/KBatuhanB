@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Cloud services (AWS, Docker)**  
 - ⚡ Interested in **Cybersecurity** and **Artificial Intelligence**  
 - 📝 Check out my portfolio website: [Portfolio](https://kbatuhanb.github.io/Portfolio/)  
-- 📄 View my resume: [CV]([https://drive.google.com/file/d/1pVWFTTekDIrcFRFh4e4BQJwYr0BuDsxX/view?usp=sharing](https://drive.google.com/file/d/1KdnTRtC2CatOtKtCC8VVuFXE2GlmXjkC/view?usp=sharing))  
+- 📄 View my resume: [CV](https://drive.google.com/file/d/1KdnTRtC2CatOtKtCC8VVuFXE2GlmXjkC/view?usp=sharing)  
 - 👨‍💻 Explore my projects: [GitHub](https://github.com/KBatuhanB)  
 - 💬 Ask me about: **Full-stack development, API design, automated testing (Playwright, Jest)**  
 - 📫 How to reach me: **batuhankelami@gmail.com**
