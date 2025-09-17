@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 2nd-year Computer Engineering student at **Gazi University**  
+- 🎓 3nd-year Computer Engineering student at **Gazi University**  
 - 💻 Building **full-stack applications** with **Node.js, React, MongoDB**  
 - 🌱 Currently learning **Cloud services (AWS, Docker)**  
 - ⚡ Interested in **Cybersecurity** and **Artificial Intelligence**  
