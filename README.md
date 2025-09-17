@@ -4,6 +4,8 @@ Welcome to my digital portfolio! I'm a passionate Computer Engineering student a
 
 ## 🎓 About Me
 
+#  📚 [CV](https://drive.google.com/file/d/1KdnTRtC2CatOtKtCC8VVuFXE2GlmXjkC/view?usp=sharing)
+
 Hi there! I'm Batuhan, a 3rd-year Computer Engineering student with a deep passion for software development. My journey in tech started with curiosity and has grown into a commitment to creating meaningful digital solutions. From full-stack web applications to mobile apps and game development, I love diving into different domains and learning new technologies.
 
 **Current Status:** 📚 Studying at Gazi University (2024-2027) | **Previous:** Ankara Medipol University (2022-2024, Full Scholarship)
@@ -84,6 +86,7 @@ I'm always excited to discuss technology, collaborate on projects, or just chat 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/batuhan-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-45b2b726b/)
 - 🐙 **GitHub:** [Check out my code](https://github.com/KBatuhanB)
 - 📧 **Email:** batuhankelami@gmail.com
+- 📚 **My CV:** [CV](https://drive.google.com/file/d/1KdnTRtC2CatOtKtCC8VVuFXE2GlmXjkC/view?usp=sharing)
 
 ---
 
