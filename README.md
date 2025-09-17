@@ -42,36 +42,6 @@ Hi there! I'm Batuhan, a 3rd-year Computer Engineering student with a deep passi
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,kotlin,c,cs,html,css,docker,selenium,unity" />
 </p>
 
-## 🌟 Featured Projects
-
-### 🎯 [Collectify](https://github.com/KBatuhanB/Collectify-Books-Movies-Games-Collection-Manager-Full-Stack-) 
-**Full-Stack Media Collection Manager**
-- Modern 3-tier architecture with React.js, Node.js, and MongoDB
-- Complete CRUD operations for books, movies, series, and games
-- Material-UI theming, Chart.js visualizations, comprehensive testing
-- **What I learned:** Full-stack development, API design, testing strategies
-
-### 📱 Python in 20 Days
-**Educational Android App**
-- Interactive Python learning with 20 structured lessons
-- Jetpack Compose UI, bilingual support (TR/EN), gamified experience
-- KOBOT mascot guidance system
-- **What I learned:** Android development, UI/UX design, educational app principles
-
-### 🎮 Paper Tale (2nd Place Winner 🏆)
-**Award-Winning Puzzle-Adventure Game**
-- Developed during PURA GameJam at Hacettepe University
-- Unity-based game with touching father-daughter storyline
-- Level design, game mechanics, narrative development
-- **What I learned:** Game design, teamwork under pressure, storytelling through gameplay
-
-### 🕹️ Axolotl Ascension
-**Innovative Time-Based Puzzle Game**
-- Unique time-sharing mechanics between player and objects
-- Unity engine with C# gameplay scripts
-- Developed during ANKU GameJam (Ankara University)
-- **What I learned:** Game programming, innovative mechanics, rapid prototyping
-
 ## 🏆 Achievements & Experience
 
 ### 🎓 Academic Excellence
