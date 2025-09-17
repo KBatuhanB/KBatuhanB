@@ -30,20 +30,17 @@ Hi there! I'm Batuhan, a 3rd-year Computer Engineering student with a deep passi
 - **Best Practices:** TDD, code coverage, CI/CD ready
 
 ## 🛠️ Tech Stack
-
-```javascript
-const myTechStack = {
-  languages: ["JavaScript", "Kotlin", "C#", "Python"],
-  frontend: ["React.js", "Material-UI", "Chart.js", "HTML5/CSS3"],
-  backend: ["Node.js", "Express.js", "RESTful APIs"],
-  mobile: ["Android (Kotlin)", "Jetpack Compose", "Material Design"],
-  gamedev: ["Unity", "C#", "Game Design", "Level Design"],
-  databases: ["MongoDB", "Database Design"],
-  testing: ["Jest", "Playwright", "Selenium", "Unit Testing"],
-  tools: ["Git", "VS Code", "Android Studio", "Figma"],
-  learning: ["Always exploring new technologies! 🚀"]
-};
-```
+- **Languages:** JavaScript • Kotlin • C# • Python  
+- **Frontend:** React.js • Material-UI • Chart.js • HTML5 • CSS3  
+- **Backend:** Node.js • Express.js • RESTful APIs  
+- **Mobile:** Android (Kotlin) • Jetpack Compose • Material Design  
+- **GameDev:** Unity • C# • Game & Level Design  
+- **Databases:** MongoDB • Database Design  
+- **Testing:** Jest • Playwright • Selenium • Unit Testing  
+- **Tools:** Git • VS Code • Android Studio • Figma  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,kotlin,c,cs,html,css,docker,selenium,unity" />
+</p>
 
 ## 🌟 Featured Projects
 
@@ -114,13 +111,10 @@ As a student, I believe in:
 I'm always excited to discuss technology, collaborate on projects, or just chat about the latest in software development!
 
 - 🌐 **Portfolio:** [Live Demo](https://kbatuhanb.github.io/Portfolio/)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/batuhan-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-45b2b726b/)
 - 🐙 **GitHub:** [Check out my code](https://github.com/KBatuhanB)
 - 📧 **Email:** batuhankelami@gmail.com
-- 🎮 **YouTube:** Game development documentation and tutorials
 
 ---
 
 > *"Every line of code is a step forward in my journey as a software engineer. I'm passionate about learning, building, and sharing knowledge with the tech community."*
-
-**Made with ❤️ using React & Vite** | **Always learning, always building! 🚀**
