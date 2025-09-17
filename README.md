@@ -26,7 +26,7 @@
 ### 📌 Featured Projects
 - **[Collectify](https://github.com/KBatuhanB/collectify)** – Full-Stack media collection manager (React, Node.js, MongoDB)  
 - **[Project Management Panel](https://github.com/KBatuhanB/ProjectManagementPanel)** – Task & team management app with authentication  
-- **[Todo API](https://github.com/KBatuhanB/Todo-API)** – RESTful API with Express.js & MongoDB  
+- **[Bullet Survivor](https://www.youtube.com/@0toMillion-dev)** – My mobil game
 - **[Education App](https://github.com/KBatuhanB/KotlinEducationApp)** – Android app for learning programming basics  
 
 ---
