@@ -1,93 +1,58 @@
-# 👨‍💻 Kelami Batuhan - Computer Engineering Student
+# 👨‍💻 Kelami Batuhan Bölükbaşı
 
-Welcome to my digital portfolio! I'm a passionate Computer Engineering student at Gazi University, constantly exploring new technologies and building projects that solve real-world problems.
+**Computer Engineering Student | Full-Stack, AI & Multidisciplinary Developer**
 
-## 🎓 About Me
+📚 [My CV](https://drive.google.com/file/d/1ZhJURzVFUzuotYDUzra9b9ZbCsPt7bvz/view?usp=sharing) 
 
-###  📚 [CV](https://drive.google.com/file/d/1ZhJURzVFUzuotYDUzra9b9ZbCsPt7bvz/view?usp=sharing)
+While continuing my education in Computer Engineering at Gazi University, I translate academic theory into practical, scalable engineering solutions. I am a self-authored, purpose-driven developer who designs end-to-end systems, not just writes code. 
 
-Hi there! I'm Batuhan, a 3rd-year Computer Engineering student with a deep passion for software development. My journey in tech started with curiosity and has grown into a commitment to creating meaningful digital solutions. From full-stack web applications to mobile apps and game development, I love diving into different domains and learning new technologies.
+My interests and expertise are not confined to a single niche; they span a wide spectrum from enterprise-level AI RAG systems and modern full-stack web architectures to native mobile apps and indie game development. The common denominator is always the same: **Building clean code, robust architecture, and production-ready products that solve real-world problems.**
 
-**Current Status:** 📚 Studying at Gazi University (2024-2027) | **Previous:** Ankara Medipol University (2022-2024, Full Scholarship)
+## 🚀 What I Build
 
-## 🚀 What I Do
+### 🧠 AI & Intelligent Systems
+- **RAG & Multi-Agent:** Hybrid RAG pipelines (Vector Search + SQL) that operate on internal data with strict guardrails to minimize hallucinations. Multi-Agent systems with democratic consensus mechanisms built using LangGraph.
+- **Integration:** Secure, intent-based AI support systems integrated with OpenAI, Claude, Pinecone, and pgvector.
 
-### 💻 Full-Stack Development
-- **Frontend:** React.js, Material-UI, responsive design, modern JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, RESTful APIs, database integration
-- **Database:** MongoDB, data modeling, optimization
+### 💻 Full-Stack & Web Architectures
+- **Frontend:** Modern, type-safe, and high-performance interfaces utilizing React 19, Next.js 15, TypeScript, and Tailwind CSS.
+- **Backend & Database:** RESTful APIs built with Node.js, Python, and C# (.NET Core). Optimized data modeling and secure architectures (RLS/RBAC) using Supabase, PostgreSQL, and MongoDB.
 
-### 📱 Mobile Development
-- **Android:** Kotlin, Jetpack Compose, modern Android architecture
-- **UI/UX:** Material Design, accessibility, user-centered design
-
-### 🎮 Game Development
-- **Engine:** Unity, C# scripting, 2D/3D game mechanics
-- **Experience:** GameJam participant, collaborative development
-- **Projects:** Puzzle games, indie game development
-
-### 🧪 Testing & Quality Assurance
-- **Testing:** Jest, Playwright, unit/integration/E2E testing
-- **Automation:** Selenium, web automation, cross-browser testing
-- **Best Practices:** TDD, code coverage, CI/CD ready
+### 📱 Mobile & 🎮 Game Development
+- **Mobile (Android):** Gamified, interactive native educational applications built with Kotlin, Jetpack Compose, and Clean Architecture principles.
+- **GameDev:** 2D/3D games and indie projects with innovative mechanics, developed in Unity and C#, recognized with awards at various GameJams.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript • Kotlin • C# • Python  
-- **Frontend:** React.js • Material-UI • Chart.js • HTML5 • CSS3  
-- **Backend:** Node.js • Express.js • RESTful APIs  
-- **Mobile:** Android (Kotlin) • Jetpack Compose • Material Design  
-- **GameDev:** Unity • C# • Game & Level Design  
-- **Databases:** MongoDB • Database Design  
-- **Testing:** Jest • Playwright • Selenium • Unit Testing  
-- **Tools:** Git • VS Code • Android Studio • Figma  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,kotlin,c,cs,html,css,docker,selenium,unity" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,kotlin,react,nextjs,nodejs,express,supabase,postgres,mongodb,unity,docker,git" />
 </p>
 
-## 🏆 Achievements & Experience
+- **Languages:** TypeScript, JavaScript, Python, C#, Kotlin
+- **AI & Data:** OpenAI, Claude, LangChain, LangGraph, Pinecone, pgvector
+- **Frontend & UI:** React, Next.js, Material-UI, Tailwind CSS, Jetpack Compose
+- **Backend & BaaS:** Node.js, Express, ASP.NET Core, Flask, Supabase, Firebase
+- **Testing & Quality:** Jest, Playwright, Selenium, SOLID, TDD
 
-### 🎓 Academic Excellence
-- **GPA:** 3.41/4.0 at Gazi University | 3.69/4.0 at Ankara Medipol (Full Scholarship)
-- **Active Member:** Gazi ACM R&D Game Development Team
-- **Leadership:** Founded and led Medipol E-Sports club
+## 🏆 Featured Projects
 
-### 💼 Professional Experience
-- **Software Development Intern** at Secure Computing (Mar-Aug 2024)
-- Developed full-stack applications with modern technologies
-- Applied clean code principles and SOLID design patterns
+- **Desk AI:** A hybrid RAG management system developed for cargo companies, featuring intelligent intent routing, semantic search, and OpenAI/Claude integration.
+- **Personal Decision Council:** A multi-agent negotiation system powered by LangGraph, operating with real-time (SSE) streaming, where 8 distinct AI agents debate to reach a consensus.
+- **News Management System (AA-NMS) - Anadolu Ajansı:** An end-to-end platform digitizing the institution's news production processes using React 19 and Supabase (Winter Internship).
+- **Python in 20 Days:** A gamified Android educational app with multi-language support, developed using Kotlin and Jetpack Compose.
+- **Axolotl Ascension & Paper Tale:** Award-winning GameJam projects (PURA GameJam 2nd Place) that stand out for their system design, mechanics, and spatial storytelling.
 
-### 🎮 GameJam Achievements
-- **🥈 2nd Place:** PURA GameJam (Hacettepe University) - Paper Tale
-- **Participant:** ANKU GameJam (Ankara University) - Axolotl Ascension
-- **Participant:** AyazJam (Gazi University) - First GameJam experience
+## ⚙️ Engineering Philosophy
 
-## 📚 Learning Philosophy
+- **Quality-Driven:** I do not treat projects as experimental prototypes. I build living systems for real users, designed to handle edge cases securely and reliably.
+- **Versatility:** One day I might be optimizing a complex database schema, and the next day I could be tweaking a game's physics engine or a mobile app's UI animations. The tools change, but the engineering discipline remains constant.
+- **Continuous Evolution:** Technology evolves rapidly. Taking a metacognitive approach, I focus on mastering the underlying fundamental concepts and architectural patterns rather than just learning the latest frameworks.
 
-As a student, I believe in:
-- **Learning by Doing:** Every project teaches me something new
-- **Continuous Growth:** Technology evolves, so do I
-- **Community Engagement:** Active in university clubs and tech communities
-- **Problem-Solving:** Using technology to solve real-world challenges
-- **Quality Focus:** Writing clean, maintainable, and well-tested code
+## 📞 Let's Connect
 
-## 🎯 Current Goals
-
-- 📖 **Deepening Knowledge:** Advanced algorithms, system design, software architecture
-- 🚀 **Building Projects:** More complex full-stack applications and mobile apps
-- 🎮 **Game Development:** Continuing indie game development journey
-- 🤝 **Collaboration:** Contributing to open-source projects and team developments
-- 🎓 **Academic Success:** Maintaining strong GPA while building practical skills
-
-## 📞 Let's Connect!
-
-I'm always excited to discuss technology, collaborate on projects, or just chat about the latest in software development!
+Feel free to reach out if you want to discuss new technologies, collaborate on open-source projects, or bring your ideas to life.
 
 - 🌐 **Portfolio:** [Live Demo](https://kbatuhanb.github.io/Portfolio/)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/batuhan-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-45b2b726b/)
+- 💼 **LinkedIn:** [Kelami Batuhan Bölükbaşı](https://www.linkedin.com/in/batuhan-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-45b2b726b/)
 - 🐙 **GitHub:** [Check out my code](https://github.com/KBatuhanB)
 - 📧 **Email:** batuhankelami@gmail.com
-- 📚 **My CV:** [CV](https://drive.google.com/file/d/1KdnTRtC2CatOtKtCC8VVuFXE2GlmXjkC/view?usp=sharing)
-
----
-
-> *"Every line of code is a step forward in my journey as a software engineer. I'm passionate about learning, building, and sharing knowledge with the tech community."*
