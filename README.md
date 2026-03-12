@@ -52,7 +52,7 @@ My interests and expertise are not confined to a single niche; they span a wide 
 
 Feel free to reach out if you want to discuss new technologies, collaborate on open-source projects, or bring your ideas to life.
 
-- 🌐 **Portfolio:** [Live Demo](https://kbatuhanb.github.io/Portfolio/)
+- 🌐 **Portfolio:** [kbatuhan.me](https://kbatuhanb.github.io/Portfolio/)
 - 💼 **LinkedIn:** [Kelami Batuhan Bölükbaşı](https://www.linkedin.com/in/batuhan-b%C3%B6l%C3%BCkba%C5%9F%C4%B1-45b2b726b/)
 - 🐙 **GitHub:** [Check out my code](https://github.com/KBatuhanB)
 - 📧 **Email:** batuhankelami@gmail.com
